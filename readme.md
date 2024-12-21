@@ -8,6 +8,8 @@ This project introduces a blockchain-based governance system for decentralized s
 
 ## Contract Address
 0xb5d876c59d1fa0a5695bb6e87232e98390ca7b00
+![image](https://github.com/user-attachments/assets/17ed634a-ef02-487e-bd61-2e6cb29a7ae6)
+
 
 ## Project Vision
 The vision is to empower stakeholders in decentralized schools to have a transparent and democratic decision-making process. The system ensures accountability and inclusivity while eliminating the need for centralized administration.
